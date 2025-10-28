@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://www.bagisto.com">
     <picture>
@@ -174,3 +175,6 @@ Thank you to all our backers! 🙏
 Support this project by becoming a sponsor. Your logo will show up here with a link to your website.
 
 <a href="https://opencollective.com/bagisto" target="_blank"><img src="https://opencollective.com/bagisto/sponsors.svg?width=890&isActive=true"></a>
+=======
+# manzanareparts
+>>>>>>> db3bbb00a9bf9a64001f1c65402ae1d46b71dfc6
